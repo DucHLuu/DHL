@@ -48,6 +48,11 @@ nav a:hover {
 text-decoration: underline;
 }
 
+ul {
+    margin-left: 0;
+    padding-left: 10px;
+}
+
 main {
 max-width: 900px;
 margin: 50px auto;
