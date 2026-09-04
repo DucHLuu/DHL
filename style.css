@@ -23,7 +23,9 @@ line-height: 1.5;
 @media (max-width: 800px) {
     .content {
         width: 99%;
-        padding: 1px;
+        padding: 5px;
+        border-left: none;
+        border-right: none;
         text-align: left;
     }
 }
