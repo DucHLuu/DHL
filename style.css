@@ -28,6 +28,10 @@ line-height: 1.5;
         border-right: none;
         text-align: left;
     }
+    ul {
+        margin-left: 0;
+        padding-left: 10px;
+    }
 }
 
 nav {
